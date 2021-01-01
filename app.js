@@ -1,3 +1,4 @@
 function alert(){
-    console.log("Este é uma atualização do app!");
+    alert("Este é uma atualização do app!");
+    console.log("Teste de atualização");
 }
